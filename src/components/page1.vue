@@ -1,9 +1,8 @@
 <template>
   <div>
     <p>
-      ここはページ１です。
+      ここはトップページです。
     </p>
-    <router-link to="/page2">Go to page2</router-link>
   </div>
 </template>
 
@@ -11,4 +10,7 @@
 </script>
 
 <style>
+div {
+  height: 100%;
+}
 </style>
